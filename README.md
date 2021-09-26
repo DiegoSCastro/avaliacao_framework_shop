@@ -3,7 +3,7 @@
  Avaliação do candidato Diego de Souza Castro pela empresa Framework.
 
 
-![Teste](https://github.com/DiegoSCastro/avaliacao_framework_shop/raw/main/fruitshop.gif)
+![fruitshop](https://user-images.githubusercontent.com/66894278/134818269-e52c8733-adb4-49e6-a0b9-28e4b902b155.gif)
 
 
 ## Getting Started
